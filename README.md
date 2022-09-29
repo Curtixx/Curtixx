@@ -15,5 +15,5 @@
  <a href="https://instagram.com/henrique_curtis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:curtishenrique10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/henrique-curtis-26325822a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <img align="right" alt="Rique-gif" height="90" style="border-radius:50px;" src="https://media.tenor.com/9nD_209JkdcAAAAC/uchiha-sasuke-sasuke.gif">
+ 
 </div>
