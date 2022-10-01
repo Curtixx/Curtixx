@@ -3,6 +3,7 @@
 
 - 🔭 Full Stack Developer
 - 🌱 Estudando Javascript e outras linguagens
+- 📚 Cursando ensino técnico 
 
 
 <div align="center">
