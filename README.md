@@ -1,4 +1,4 @@
-### Oii, eu sou o Henrique Curtis 👋
+### Prazer, eu sou o Henrique Curtis 👋
 
 
 - 🔭 Full Stack Developer
