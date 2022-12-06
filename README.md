@@ -2,8 +2,8 @@
 
 
 - 🔭 Full Stack Developer
-- 🌱 Estudando Javascript e outras linguagens
-- 📚 Cursando ensino médio técnico 
+- 🌱 Atualmente estudando Javascript e Typescript
+- 📚 Cursando ensino médio técnico na UNIVAP
 
 
 <div align="center">
