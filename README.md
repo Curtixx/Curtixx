@@ -1,5 +1,19 @@
 ### Prazer, eu sou o Henrique Curtis 👋
 
+```js
+import Desenvolvedor from 'SeuNick';
+class SobreMim extends Desenvolvedor {
+  nome     = 'Seu nome';
+  area    = 'Sua área';
+  trabalho  = 'Onde trabalha';
+  local = 'Local';
+}
+class Skills extends Desenvolvedor {
+  linguagens  = ['Suas linguagens'];
+  bibliotecas  = ['Suas bibliotecas'];
+  frameworks = ['Seus frameworks'];
+}
+```
 
 - 🔭 Full Stack Developer
 - 🌱 Atualmente estudando Javascript e Typescript
