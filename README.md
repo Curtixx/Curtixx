@@ -1,8 +1,8 @@
 ```js
 import Desenvolvedor from 'Henrique';
 class SobreMim extends Desenvolvedor {
-  nome     = 'Henrique Curtis';
-  area    = 'Engenheiro de Software';
+  nome = 'Henrique Curtis';
+  area = 'Engenheiro de Software';
   local = 'São José dos Campos';
 }
 class Skills extends Desenvolvedor {
