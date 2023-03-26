@@ -11,7 +11,7 @@ class Skills extends Desenvolvedor {
 }
 ```
 <hr>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curtixx&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curtixx&layout=compact&langs_count=20&theme=dracula"/>
 <hr>
 <div>
  <a href="https://instagram.com/henrique_curtis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
