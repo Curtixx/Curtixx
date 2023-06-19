@@ -7,7 +7,7 @@ class SobreMim extends Desenvolvedor {
 }
 class Skills extends Desenvolvedor {
   linguagens  = ['JavaScript, TypeScript, Java, C#, Python, PHP entre outras... '];
-  frameworks = ['Node.js, Django, Laravel e Angular.js'];
+  frameworks = ['Node.js, Django, Laravel, Next.js e React'];
 }
 ```
 <hr>
