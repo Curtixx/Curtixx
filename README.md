@@ -6,8 +6,8 @@ class SobreMim extends Desenvolvedor {
   local = 'São José dos Campos';
 }
 class Skills extends Desenvolvedor {
-  linguagens  = ['JavaScript, TypeScript, Java, C#, Python, PHP entre outras... '];
-  frameworks = ['Node.js, Django, Laravel, Next.js e React'];
+  linguagens  = ['JavaScript', 'TypeScript', 'Java', 'C#', 'Python', 'PHP entre outras... '];
+  frameworks = ['Node.js', 'Django', 'Laravel', 'Next.js', 'React'];
 }
 ```
 <hr>
